@@ -1,4 +1,4 @@
-Temperature Converter - Main Version
+# Temperature Convertor
 
 Purpose
 A Python program that converts temperatures between Celsius and Fahrenheit.
